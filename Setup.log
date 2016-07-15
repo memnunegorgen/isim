@@ -1,0 +1,10 @@
+[InstallShield Silent]
+Version=v7.00
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=ChargeableUSB
+Version=1.0.0.0
+Company=SAMSUNG
+Lang=0009
